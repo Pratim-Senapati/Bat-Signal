@@ -30,13 +30,13 @@ Two final output ports (`vout_upper` and `vout_lower`) together produce the comp
 - Both upper and lower outputs plotted against time.
 - Each section responds to carefully timed voltage sources.
 
-## 🔧 Files Included
+## 📂 Files Included
 
 | File                      | Description             |
 | ------------------------- | ----------------------- |
-| `circuit/batman_logo.asc` | LTspice schematic file  |
-| `circuit/batman_logo.net` | Generated SPICE netlist |
-| `circuit/sim_log.txt`     | Simulation log          |
+| `circuit/bat logo v3.asc` | LTspice schematic file  |
+| `circuit/bat logo v3.net` | Generated SPICE netlist |
+| `circuit/bat logo v3.plt` | Plot settings           |
 | `image/logo_v3.png`       | Output waveform image   |
 
 ## 🚀 Future Work
